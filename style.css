@@ -52,8 +52,7 @@ p {
   margin: 1em auto;
   padding: 0 1em;
   font-size: 1.1em;
-  /* Optional: Uncomment if you want justified text */
-  /* text-align: justify; */
+  text-align: justify; 
 }
 
 img {
