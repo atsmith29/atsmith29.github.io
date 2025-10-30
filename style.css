@@ -52,7 +52,7 @@ p {
   margin: 1em auto;
   padding: 0 1em;
   font-size: 1.1em;
-  text-align: justify; 
+  /* text-align: justify; */
 }
 
 img {
@@ -93,4 +93,4 @@ figcaption {
   img {
     margin: 1rem auto;
   }
-}
+}   
